@@ -1,0 +1,5 @@
+name: FightAlert
+version: '1.0'
+main: dev.thebjoredcraft.fightalert.FightAlert
+api-version: '1.20'
+author: TheBjoRedCraft
